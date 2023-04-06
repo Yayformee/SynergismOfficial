@@ -408,10 +408,10 @@
             "195": "Gain {{x}}% more Cubes and Tesseracts on Ascension! Multiplicative with the other Ach. bonus [MAX: 25,000% at e100,000 Const]",
             "196": "Gain {{x}}% more Platonic Cubes on Ascension! [MAX: 2,000% at e100,000 Const]",
             "197": "You will unlock a stat tracker for Ascensions.",
-            "198": "Gain +4% Cubes on Ascension!",
-            "199": "Gain +4% Cubes on Ascension!",
-            "200": "Gain +4% Cubs on Ascension! Did I spell that wrong? You bet I did.",
-            "201": "Gain +3% Cubes on Ascension!",
+            "198": "Otrzymaj 4% więcej kostek przy Ascendencji!",
+            "199": "Otrzymaj 4% więcej kostek przy Ascendencji!",
+            "200": "Otrzymaj +4% Kosek przy Ascendencji! Ups, pomyliłem się w pisowni? A żebyś wiedział.",
+            "201": "Otrzymaj 3% więcej kostek przy Ascendencji!",
             "202": "Gain 20% of Excess time after 10 seconds each Ascensions as a linear multiplier to Ascension count. Also: Tesseracts +{{x}}% [Max: 200% at 1B Ascensions]",
             "204": "You will gain 25% of Excess time after 10 seconds each Ascension as a linear multiplier to rewards.",
             "205": "Gain +4% Tesseracts on Ascension!",
@@ -1370,7 +1370,7 @@
             "transaction": "Transakcja {{spent}} złotych kwarków zakończona sukcesem! [-{{cost}} Kwarki]",
             "poor": "Przepraszam, nie mogę dać kredytu. Wróć, kiedy będziesz trochę... mmm... bogatszy!",
             "buyPrompt": "Tutaj możesz kupić Złote Kwarki za {{cost}} Kwarków (przecenione o {{discount}})! Możesz kupić do {{max}}. Jak dużo chcesz? Wpisz -1, aby kupić max!",
-            "spendPrompt": "Ile złotych kwarków chciałbyś wydać? Masz {{gq} GQ. Wpisz -1, aby użyć maksimum!",
+            "spendPrompt": "Ile złotych kwarków chciałbyś wydać? Masz {{gq}} GQ. Wpisz -1, aby użyć maksimum!",
             "hasUpgrade": "Hej! Osiągnąłeś już maksymalny poziom tego ulepszenia. :D",
             "notHighEnoughLevel": "Nie jesteś jeszcze wystarczająco silny, aby to kupić.",
             "ascensionReset": "Uległeś kultowi. Twój postęp ascednecji został zresetowany jako jednorazowy środek ostrożności...",
@@ -1481,7 +1481,7 @@
         },
         "toString": {
             "noMinimum": "No minimal Singularity to purchase required",
-            "costNextLevel": "Koszt następnego poziomu:"
+            "costNextLevel": "Koszt następnego poziomu"
         },
         "data": {
             "goldenQuarks1": {
@@ -2097,7 +2097,7 @@
             "30": "Effect: +{{x}} Multipliers.",
             "31": "Effect: +{{x}} Accelerator Boosts",
             "32": "Effect: +{{x}} Accelerators",
-            "33": "Effect: +{{x} Multipliers",
+            "33": "Effect: +{{x}} Multipliers",
             "34": "Effect: +{{x}} Multipliers",
             "35": "Effect: +{{x}} Multipliers",
             "36": "Effect: All Crystal producers x{{x}}",
